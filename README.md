@@ -1,2 +1,2 @@
-# Askaway
+# Stack
 Future of questions
